@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E6E6E6;
+    text-align: center;
+    height: 188px;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #005677;
+    background-color: #C4C4C4;
+    text-align: center;
+    height: 60px;
+}
